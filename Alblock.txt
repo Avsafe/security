@@ -1,1 +1,2 @@
-userTest:yes
+[global]
+userTest=yes
